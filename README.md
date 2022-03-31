@@ -2,7 +2,7 @@
 A simple script to go search an organization's Java dependency management files for a particular dependency. Maven pom.xml and Gradle build.gradle are currently supported, though support for the latter can be improved.
 
 ## Installation
-Requires Python 3.
+Requires Python 3 and a GitHub access token.
 ```
 virtualenv venv
 source ./venv/bin/activate
